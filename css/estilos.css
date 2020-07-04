@@ -6,3 +6,7 @@ body{
 p{
     color: orange;
 }
+#header{
+    background: #eeeeee;
+    color: red;
+}
