@@ -1,2 +1,7 @@
-# postblog
-Blogpost en curso de GIt Platzi
+# Blogpost
+Blogpost en curso de GIt Platzi.
+
+> Para el curso de Git y GitHub de Platzi.
+
+## Update de readme
+Probando markdown de **readme** para visualizar en GitHub.
