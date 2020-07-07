@@ -7,3 +7,4 @@ Blogpost en curso de GIt Platzi.
 Probando markdown de **readme** para visualizar en GitHub.
 
 * creado para el curso.
+* Incluye ejemplo en windows
