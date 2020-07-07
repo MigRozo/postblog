@@ -5,6 +5,11 @@ body{
 }
 p{
     color: orange;
+    background: #000;
+}
+li{
+    background: yellow;
+    margin: 1em 0;
 }
 #header{
     background: #eeeeee;
